@@ -1,0 +1,152 @@
+[
+{
+"country": "Japan",
+"clues": ["Home of Mount Fuji", "Famous for sushi and anime", "Capital city is Tokyo"],
+"options": ["Japan", "South Korea", "China", "Thailand"]
+},
+{
+"country": "Brazil",
+"clues": ["Largest country in South America", "Amazon rainforest covers much of it", "Famous for Carnival festival"],
+"options": ["Argentina", "Brazil", "Peru", "Mexico"]
+},
+{
+"country": "Egypt",
+"clues": ["Ancient pyramids are located here", "River Nile flows through it", "Capital is Cairo"],
+"options": ["Egypt", "Morocco", "Iran", "Turkey"]
+},
+{
+"country": "Canada",
+"clues": ["Second largest country by land area", "Maple leaf on its flag", "Capital city is Ottawa"],
+"options": ["USA", "Canada", "Australia", "Russia"]
+},
+{
+"country": "Norway",
+"clues": ["Known for beautiful fjords", "Northern lights can be seen here", "Capital city is Oslo"],
+"options": ["Sweden", "Norway", "Finland", "Denmark"]
+},
+{
+"country": "Thailand",
+"clues": ["Capital is Bangkok", "Known for beautiful beaches and temples", "Popular street food culture"],
+"options": ["Vietnam", "Thailand", "Malaysia", "Indonesia"]
+},
+{
+"country": "Turkey",
+"clues": ["City of Istanbul connects two continents", "Famous for Hagia Sophia", "Capital city is Ankara"],
+"options": ["Iran", "Turkey", "Greece", "Egypt"]
+},
+{
+"country": "Argentina",
+"clues": ["Home of tango dance", "Capital is Buenos Aires", "Messi's home country"],
+"options": ["Chile", "Argentina", "Uruguay", "Peru"]
+},
+{
+"country": "South Africa",
+"clues": ["Three capital cities", "Known for safaris and wildlife", "Nelson Mandela was from here"],
+"options": ["Kenya", "Nigeria", "South Africa", "Ethiopia"]
+},
+{
+"country": "Switzerland",
+"clues": ["Famous for chocolate and watches", "Home of the Alps", "Capital city is Bern"],
+"options": ["Austria", "Switzerland", "Germany", "France"]
+},
+{
+"country": "New Zealand",
+"clues": ["Filming location of Lord of the Rings", "Capital is Wellington", "Two main islands"],
+"options": ["Australia", "New Zealand", "Iceland", "Ireland"]
+},
+{
+"country": "Saudi Arabia",
+"clues": ["Largest country in the Middle East", "Mecca and Medina located here", "Capital city is Riyadh"],
+"options": ["Saudi Arabia", "UAE", "Qatar", "Oman"]
+},
+{
+"country": "Indonesia",
+"clues": ["Largest island country in the world", "Island of Bali located here", "Capital is Jakarta"],
+"options": ["Indonesia", "Philippines", "Malaysia", "Thailand"]
+},
+{
+"country": "Vietnam",
+"clues": ["Capital is Hanoi", "Famous dish is Pho", "Located in Southeast Asia"],
+"options": ["Vietnam", "Cambodia", "Thailand", "Laos"]
+},
+{
+"country": "Poland",
+"clues": ["Capital city is Warsaw", "Located in Central Europe", "Home of Marie Curie"],
+"options": ["Poland", "Hungary", "Czech Republic", "Slovakia"]
+},
+{
+"country": "Portugal",
+"clues": ["Capital is Lisbon", "Located on the Iberian Peninsula", "Cristiano Ronaldo's country"],
+"options": ["Spain", "Portugal", "Italy", "France"]
+},
+{
+"country": "Greece",
+"clues": ["Birthplace of democracy", "Capital is Athens", "Many ancient ruins and islands"],
+"options": ["Greece", "Italy", "Turkey", "Cyprus"]
+},
+{
+"country": "Chile",
+"clues": ["Very long and narrow country", "Located along the Andes mountains", "Capital city is Santiago"],
+"options": ["Chile", "Peru", "Argentina", "Bolivia"]
+},
+{
+"country": "Finland",
+"clues": ["Thousands of lakes", "Capital city is Helsinki", "Known for saunas"],
+"options": ["Norway", "Finland", "Sweden", "Denmark"]
+},
+{
+"country": "Kenya",
+"clues": ["Famous for Maasai Mara safari", "Capital city is Nairobi", "Located in East Africa"],
+"options": ["Kenya", "Tanzania", "Uganda", "Ethiopia"]
+},
+{
+"country": "Morocco",
+"clues": ["Located in North Africa", "Famous city Marrakech", "Close to Spain across the sea"],
+"options": ["Morocco", "Algeria", "Tunisia", "Egypt"]
+},
+{
+"country": "Peru",
+"clues": ["Home of Machu Picchu", "Capital city is Lima", "Located in South America"],
+"options": ["Peru", "Chile", "Bolivia", "Colombia"]
+},
+{
+"country": "Austria",
+"clues": ["Capital city is Vienna", "Birthplace of Mozart", "Located in Central Europe"],
+"options": ["Austria", "Germany", "Hungary", "Switzerland"]
+},
+{
+"country": "Hungary",
+"clues": ["Capital city is Budapest", "Located along the Danube river", "Central European country"],
+"options": ["Hungary", "Poland", "Romania", "Serbia"]
+},
+{
+"country": "Philippines",
+"clues": ["More than 7000 islands", "Capital city is Manila", "Located in Southeast Asia"],
+"options": ["Philippines", "Indonesia", "Malaysia", "Thailand"]
+},
+{
+"country": "Ireland",
+"clues": ["Known as the Emerald Isle", "Capital city is Dublin", "Located in Europe"],
+"options": ["Ireland", "Iceland", "Scotland", "Wales"]
+},
+{
+"country": "Iceland",
+"clues": ["Land of fire and ice", "Capital city is Reykjavik", "Many volcanoes and glaciers"],
+"options": ["Iceland", "Norway", "Greenland", "Finland"]
+},
+{
+"country": "Czech Republic",
+"clues": ["Capital city is Prague", "Located in Central Europe", "Famous medieval architecture"],
+"options": ["Czech Republic", "Poland", "Austria", "Slovakia"]
+},
+{
+"country": "Colombia",
+"clues": ["Famous for coffee production", "Capital city is Bogota", "Located in South America"],
+"options": ["Colombia", "Venezuela", "Peru", "Ecuador"]
+},
+{
+"country": "Romania",
+"clues": ["Home of Dracula legend", "Capital city is Bucharest", "Located in Eastern Europe"],
+"options": ["Romania", "Hungary", "Bulgaria", "Serbia"]
+}
+]

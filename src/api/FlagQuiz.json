@@ -1,0 +1,162 @@
+[
+  {
+    "country": "Bhutan",
+    "flag": "https://flagcdn.com/w320/bt.png",
+    "options": ["Bhutan", "Nepal", "Mongolia", "Kazakhstan"]
+  },
+  {
+    "country": "Marshall Islands",
+    "flag": "https://flagcdn.com/w320/mh.png",
+    "options": ["Marshall Islands", "Kiribati", "Palau", "Micronesia"]
+  },
+  {
+    "country": "Portugal",
+    "flag": "https://flagcdn.com/w320/pt.png",
+    "options": ["Portugal", "Spain", "Italy", "Mexico"]
+  },
+  {
+    "country": "Greece",
+    "flag": "https://flagcdn.com/w320/gr.png",
+    "options": ["Greece", "Uruguay", "Argentina", "Finland"]
+  },
+  {
+    "country": "Hungary",
+    "flag": "https://flagcdn.com/w320/hu.png",
+    "options": ["Hungary", "Italy", "Bulgaria", "Iran"]
+  },
+  {
+    "country": "Czech Republic",
+    "flag": "https://flagcdn.com/w320/cz.png",
+    "options": ["Czech Republic", "Slovakia", "Slovenia", "Croatia"]
+  },
+  {
+    "country": "Slovakia",
+    "flag": "https://flagcdn.com/w320/sk.png",
+    "options": ["Slovakia", "Slovenia", "Croatia", "Serbia"]
+  },
+  {
+    "country": "Croatia",
+    "flag": "https://flagcdn.com/w320/hr.png",
+    "options": ["Croatia", "Serbia", "Slovenia", "Slovakia"]
+  },
+  {
+    "country": "Slovenia",
+    "flag": "https://flagcdn.com/w320/si.png",
+    "options": ["Slovenia", "Slovakia", "Croatia", "Russia"]
+  },
+  {
+    "country": "Bulgaria",
+    "flag": "https://flagcdn.com/w320/bg.png",
+    "options": ["Bulgaria", "Hungary", "Iran", "Lithuania"]
+  },
+  {
+    "country": "Romania",
+    "flag": "https://flagcdn.com/w320/ro.png",
+    "options": ["Romania", "Chad", "Moldova", "Colombia"]
+  },
+  {
+    "country": "Serbia",
+    "flag": "https://flagcdn.com/w320/rs.png",
+    "options": ["Serbia", "Russia", "Slovakia", "Slovenia"]
+  },
+  {
+    "country": "Finland",
+    "flag": "https://flagcdn.com/w320/fi.png",
+    "options": ["Finland", "Sweden", "Denmark", "Norway"]
+  },
+  {
+    "country": "Denmark",
+    "flag": "https://flagcdn.com/w320/dk.png",
+    "options": ["Denmark", "Norway", "Sweden", "Finland"]
+  },
+  {
+    "country": "Norway",
+    "flag": "https://flagcdn.com/w320/no.png",
+    "options": ["Norway", "Denmark", "Iceland", "Sweden"]
+  },
+  {
+    "country": "Sweden",
+    "flag": "https://flagcdn.com/w320/se.png",
+    "options": ["Sweden", "Finland", "Norway", "Denmark"]
+  },
+  {
+    "country": "Ireland",
+    "flag": "https://flagcdn.com/w320/ie.png",
+    "options": ["Ireland", "Italy", "Ivory Coast", "India"]
+  },
+  {
+    "country": "Austria",
+    "flag": "https://flagcdn.com/w320/at.png",
+    "options": ["Austria", "Latvia", "Poland", "Indonesia"]
+  },
+  {
+    "country": "Switzerland",
+    "flag": "https://flagcdn.com/w320/ch.png",
+    "options": ["Switzerland", "Denmark", "Austria", "Japan"]
+  },
+  {
+    "country": "Belgium",
+    "flag": "https://flagcdn.com/w320/be.png",
+    "options": ["Belgium", "Germany", "Romania", "Chad"]
+  },
+  {
+    "country": "Netherlands",
+    "flag": "https://flagcdn.com/w320/nl.png",
+    "options": ["Netherlands", "Luxembourg", "France", "Russia"]
+  },
+  {
+    "country": "Poland",
+    "flag": "https://flagcdn.com/w320/pl.png",
+    "options": ["Poland", "Indonesia", "Monaco", "Austria"]
+  },
+  {
+    "country": "Ukraine",
+    "flag": "https://flagcdn.com/w320/ua.png",
+    "options": ["Ukraine", "Sweden", "Kazakhstan", "Romania"]
+  },
+  {
+    "country": "Vietnam",
+    "flag": "https://flagcdn.com/w320/vn.png",
+    "options": ["Vietnam", "China", "North Korea", "Turkey"]
+  },
+  {
+    "country": "Thailand",
+    "flag": "https://flagcdn.com/w320/th.png",
+    "options": ["Thailand", "Costa Rica", "Serbia", "Netherlands"]
+  },
+  {
+    "country": "Malaysia",
+    "flag": "https://flagcdn.com/w320/my.png",
+    "options": ["Malaysia", "United States", "Liberia", "Puerto Rico"]
+  },
+  {
+    "country": "Philippines",
+    "flag": "https://flagcdn.com/w320/ph.png",
+    "options": ["Philippines", "Czech Republic", "Cuba", "Panama"]
+  },
+  {
+    "country": "South Korea",
+    "flag": "https://flagcdn.com/w320/kr.png",
+    "options": ["South Korea", "Japan", "China", "Vietnam"]
+  },
+  {
+    "country": "Argentina",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "options": ["Argentina", "Uruguay", "Paraguay", "El Salvador"]
+  },
+  {
+    "country": "Chile",
+    "flag": "https://flagcdn.com/w320/cl.png",
+    "options": ["Chile", "Texas", "Cuba", "Philippines"]
+  },
+  {
+    "country": "Colombia",
+    "flag": "https://flagcdn.com/w320/co.png",
+    "options": ["Colombia", "Venezuela", "Ecuador", "Romania"]
+  },
+  {
+    "country": "Peru",
+    "flag": "https://flagcdn.com/w320/pe.png",
+    "options": ["Peru", "Canada", "Austria", "Poland"]
+  }
+]

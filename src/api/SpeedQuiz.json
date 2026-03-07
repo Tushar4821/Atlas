@@ -1,0 +1,247 @@
+[
+{
+"question": "Which country has the largest population?",
+"options": ["India", "USA", "China", "Brazil"],
+"answer": "India"
+},
+{
+"question": "Which country is known as the Land of the Rising Sun?",
+"options": ["China", "Japan", "Thailand", "Vietnam"],
+"answer": "Japan"
+},
+{
+"question": "Which country has the Eiffel Tower?",
+"options": ["Italy", "France", "Spain", "Germany"],
+"answer": "France"
+},
+{
+"question": "Which country has the Taj Mahal?",
+"options": ["India", "Pakistan", "Nepal", "Bangladesh"],
+"answer": "India"
+},
+{
+"question": "Which country has the Great Wall?",
+"options": ["China", "Japan", "Mongolia", "Vietnam"],
+"answer": "China"
+},
+{
+"question": "Which country has the Amazon Rainforest?",
+"options": ["Brazil", "Argentina", "Peru", "Colombia"],
+"answer": "Brazil"
+},
+{
+"question": "Which country has Mount Fuji?",
+"options": ["China", "Japan", "South Korea", "Thailand"],
+"answer": "Japan"
+},
+{
+"question": "Which country has the Colosseum?",
+"options": ["Italy", "Spain", "France", "Greece"],
+"answer": "Italy"
+},
+{
+"question": "Which country has the Statue of Liberty?",
+"options": ["USA", "Canada", "UK", "France"],
+"answer": "USA"
+},
+{
+"question": "Which country has the Great Barrier Reef?",
+"options": ["Australia", "Indonesia", "Philippines", "USA"],
+"answer": "Australia"
+},
+{
+"question": "Which country has the pyramids of Giza?",
+"options": ["Egypt", "Jordan", "Morocco", "Sudan"],
+"answer": "Egypt"
+},
+{
+"question": "Which country is famous for maple syrup?",
+"options": ["Canada", "USA", "Norway", "Sweden"],
+"answer": "Canada"
+},
+{
+"question": "Which country is known for the city of Barcelona?",
+"options": ["Spain", "Portugal", "Italy", "France"],
+"answer": "Spain"
+},
+{
+"question": "Which country has the city of Berlin?",
+"options": ["Germany", "Austria", "Poland", "Switzerland"],
+"answer": "Germany"
+},
+{
+"question": "Which country has the city of Moscow?",
+"options": ["Russia", "Ukraine", "Poland", "Belarus"],
+"answer": "Russia"
+},
+{
+"question": "Which country is known for the city of Dubai?",
+"options": ["UAE", "Qatar", "Saudi Arabia", "Kuwait"],
+"answer": "UAE"
+},
+{
+"question": "Which country has the city of Bangkok?",
+"options": ["Thailand", "Vietnam", "Laos", "Cambodia"],
+"answer": "Thailand"
+},
+{
+"question": "Which country has the city of Seoul?",
+"options": ["South Korea", "Japan", "China", "North Korea"],
+"answer": "South Korea"
+},
+{
+"question": "Which country has the city of Rome?",
+"options": ["Italy", "Spain", "France", "Portugal"],
+"answer": "Italy"
+},
+{
+"question": "Which country has the city of Lisbon?",
+"options": ["Portugal", "Spain", "Italy", "France"],
+"answer": "Portugal"
+},
+{
+"question": "Which country is home to Mount Everest?",
+"options": ["Nepal", "India", "China", "Bhutan"],
+"answer": "Nepal"
+},
+{
+"question": "Which country is known for kangaroos?",
+"options": ["Australia", "New Zealand", "South Africa", "Brazil"],
+"answer": "Australia"
+},
+{
+"question": "Which country is known for tulips and windmills?",
+"options": ["Netherlands", "Belgium", "Denmark", "Germany"],
+"answer": "Netherlands"
+},
+{
+"question": "Which country is famous for chocolate and waffles?",
+"options": ["Belgium", "France", "Switzerland", "Austria"],
+"answer": "Belgium"
+},
+{
+"question": "Which country is famous for sushi?",
+"options": ["Japan", "China", "Thailand", "South Korea"],
+"answer": "Japan"
+},
+{
+"question": "Which country is famous for pizza?",
+"options": ["Italy", "France", "Spain", "USA"],
+"answer": "Italy"
+},
+{
+"question": "Which country is famous for the city of Istanbul?",
+"options": ["Turkey", "Greece", "Iran", "Bulgaria"],
+"answer": "Turkey"
+},
+{
+"question": "Which country has the Sahara Desert?",
+"options": ["Algeria", "Egypt", "Morocco", "All of these"],
+"answer": "All of these"
+},
+{
+"question": "Which country has the Nile River?",
+"options": ["Egypt", "Sudan", "Uganda", "All of these"],
+"answer": "All of these"
+},
+{
+"question": "Which country has the city of Athens?",
+"options": ["Greece", "Italy", "Spain", "Turkey"],
+"answer": "Greece"
+},
+{
+"question": "Which country has the city of Vienna?",
+"options": ["Austria", "Germany", "Hungary", "Switzerland"],
+"answer": "Austria"
+},
+{
+"question": "Which country has the city of Budapest?",
+"options": ["Hungary", "Romania", "Austria", "Poland"],
+"answer": "Hungary"
+},
+{
+"question": "Which country has the city of Warsaw?",
+"options": ["Poland", "Czech Republic", "Germany", "Ukraine"],
+"answer": "Poland"
+},
+{
+"question": "Which country has the city of Prague?",
+"options": ["Czech Republic", "Slovakia", "Austria", "Germany"],
+"answer": "Czech Republic"
+},
+{
+"question": "Which country has the city of Helsinki?",
+"options": ["Finland", "Sweden", "Norway", "Denmark"],
+"answer": "Finland"
+},
+{
+"question": "Which country has the city of Oslo?",
+"options": ["Norway", "Sweden", "Finland", "Denmark"],
+"answer": "Norway"
+},
+{
+"question": "Which country has the city of Stockholm?",
+"options": ["Sweden", "Norway", "Finland", "Denmark"],
+"answer": "Sweden"
+},
+{
+"question": "Which country has the city of Copenhagen?",
+"options": ["Denmark", "Sweden", "Norway", "Finland"],
+"answer": "Denmark"
+},
+{
+"question": "Which country has the city of Islamabad?",
+"options": ["Pakistan", "India", "Afghanistan", "Iran"],
+"answer": "Pakistan"
+},
+{
+"question": "Which country has the city of Kabul?",
+"options": ["Afghanistan", "Pakistan", "Iran", "Uzbekistan"],
+"answer": "Afghanistan"
+},
+{
+"question": "Which country has the city of Tehran?",
+"options": ["Iran", "Iraq", "Turkey", "Pakistan"],
+"answer": "Iran"
+},
+{
+"question": "Which country has the city of Baghdad?",
+"options": ["Iraq", "Iran", "Syria", "Jordan"],
+"answer": "Iraq"
+},
+{
+"question": "Which country has the city of Riyadh?",
+"options": ["Saudi Arabia", "UAE", "Qatar", "Oman"],
+"answer": "Saudi Arabia"
+},
+{
+"question": "Which country has the city of Doha?",
+"options": ["Qatar", "UAE", "Kuwait", "Oman"],
+"answer": "Qatar"
+},
+{
+"question": "Which country has the city of Nairobi?",
+"options": ["Kenya", "Uganda", "Tanzania", "Ethiopia"],
+"answer": "Kenya"
+},
+{
+"question": "Which country has the city of Addis Ababa?",
+"options": ["Ethiopia", "Kenya", "Sudan", "Somalia"],
+"answer": "Ethiopia"
+},
+{
+"question": "Which country has the city of Buenos Aires?",
+"options": ["Argentina", "Chile", "Brazil", "Peru"],
+"answer": "Argentina"
+},
+{
+"question": "Which country has the city of Lima?",
+"options": ["Peru", "Chile", "Argentina", "Bolivia"],
+"answer": "Peru"
+},
+{
+"question": "Which country has the city of Santiago?",
+"options": ["Chile", "Peru", "Argentina", "Bolivia"],
+"answer": "Chile"
+}
+]
